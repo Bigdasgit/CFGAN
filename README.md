@@ -11,10 +11,10 @@ This repository provides a reference implementation of *CFGAN* as described in t
 - Jung-Tae Lee (jungtae.lee@navercorp.com)
 
 ## Requirements
-- python 3.5x
-- tensorflow_gpu
+The code has been tested running under Python 3.5. The required packages are as follows:
+- ```tensorflow_gpu```
 
-### Usage
+### Basic Usage
 ```
 python python cfgan.py
 ```
