@@ -1,4 +1,4 @@
-# CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks****
+# CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks
 This repository provides a reference implementation of *CFGAN* as described in the following papers:
 > CFGAN: A Generic Collaborative Filtering Framework based on Generative Adversarial Networks<br>
 > Dong-Kyu Chae, Jin-Soo Kang, Sang-Wook Kim, and Jung-Tae Lee<br>
@@ -9,6 +9,15 @@ This repository provides a reference implementation of *CFGAN* as described in t
 - Jin-Soo Kang (jensoo7023@hanyang.ac.kr)
 - Sang-Wook Kim (wook@hanyang.ac.kr)
 - Jung-Tae Lee (jungtae.lee@navercorp.com)
+
+## Requirements
+- python 3.5x
+- tensorflow_gpu
+
+### Usage
+```
+python python cfgan.py
+```
 
 ### Cite
 We encourage you to cite our paper if you have used the code in your work. You can use the following BibTex citation:
